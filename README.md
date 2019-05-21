@@ -31,11 +31,11 @@ In our work to help organizations become more agile, we have come to value:
 
 While there is value in the items on the right and the left; we value the items on the left more.
 
-## Supporting Principles: <a href="supporting-principles">@</a>
+## Supporting Principles: <a href="#supporting-principles">@</a>
 
 1. <a id="principle-1">If you can achieve your goals with a single team, do not scale. Employ the minimum number of people required to meet your strategic outcomes.</a>
 
-2. If you have a single team and it cannot deliver effectively using Agile principles and practices, do not scale. Succeed with a single team first. <a id="principle-2 href="#principle-2">@</a>
+2. If you have a single team and it cannot deliver effectively using Agile principles and practices, do not scale. Succeed with a single team first. <a id="principle-2" href="#principle-2">@</a>
 
 3. Respect and trust your people; foster a climate of open, honest, rapid, and empathetic communication.
 
